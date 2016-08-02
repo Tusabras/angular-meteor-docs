@@ -160,7 +160,7 @@ If you are using [Atom](atom.io) as your editor with the [Atom-TypeScript plugin
       "files": []
     }
 
-# Challange
+# Challenge
 
 We've tried out type-checking for the `Party` type in a couple of places in this step.
 There are still some places left where the type is used but parameters are not defined, for example,
